@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  nginx:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: nginx
+    ports:
+      - "80:80"
+    volumes:
+      - ./_site:/usr/share/nginx/html
