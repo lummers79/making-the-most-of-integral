@@ -1,0 +1,35 @@
+project: 
+  type: website
+  
+website:
+  favicon: favicon.png
+  title: Making the most of Integral
+  navbar:
+    title: false
+    background: light
+    pinned: true
+    search: false
+    collapse: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Student"
+        file: Student.qmd
+      - text: "Teacher"
+        file: Teacher.qmd
+    logo: logonew.png
+  page-footer: 
+    left: "Copyright MEI, 2023" 
+    right: 
+      
+      - icon: twitter 
+        href: https://twitter.com/integral_maths
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+

@@ -1,0 +1,31 @@
+# Using Integral as a student
+
+Integral can be your one-stop shop for A level maths. As a student, you have access to traditional style notes and examples, teaching videos, interactive books, leveled exercises, online self-marking tests and much, much more.
+
+Each topic in Integral is split into chapters. Each chapter is split up into different sections. Click on a section to see more details of what resources you can access.
+
+::: columns
+::: {.column width="25%"}
+[![](images/learn.png)](Learn.qmd)
+:::
+
+::: {.column width="25%"}
+[![](images/develop.png)](Develop.qmd)
+:::
+
+::: {.column width="25%"}
+[![](images/progres.png)](Progress.qmd)
+:::
+
+::: {.column width="25%"}
+[![](images/extend.png)](Extend.qmd)
+:::
+:::
+
+Alternatively, choose an option below to see how to use Integral in different scenarios.
+
+**I want to use Integral to:**
+
+[![](images/image-965064493.png){width="230"}](catchup.qmd)
+
+[![](images/image-1348902770.png){width="230"}](practice.qmd)

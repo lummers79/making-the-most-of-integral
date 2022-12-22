@@ -1,0 +1,25 @@
+# Making the most of Integral
+
+This website is for anybody who uses Integral - MEI's online learning platform for A level maths and further maths.
+
+If you happen to have landed on this page and don't know what Integral is, go and have a [look at the Integral website](https://integralmaths.org){target="_blank"} for more details and to book a tour of the product if you're interested!
+
+This site is to help you make the most of your Integral login. For standard help/FAQ then go to our [dedicated site here](https://integralmaths.tawk.help/){target="_blank"}. To see our pubic roadmap of what we are working on now and in the future, please [visit that site here](https://app.loopedin.io/integral){target="_blank"}!
+
+The website is split into two user groups - Student and Teacher.
+
+Please choose which type of user you are to continue!
+
+::: columns
+::: {.column width="45%"}
+[![](images/image-2146262084.png)](Student.qmd)
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+[![](images/image-1354084555.png)](Teacher.qmd)
+:::
+:::
