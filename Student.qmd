@@ -26,6 +26,25 @@ Alternatively, choose an option below to see how to use Integral in different sc
 
 **I want to use Integral to:**
 
-[![](images/image-965064493.png){width="230"}](catchup.qmd)
 
+::: columns
+::: {.column width="30%"}
+[![](images/image-965064493.png){width="230"}](catchup.qmd)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
 [![](images/image-1348902770.png){width="230"}](practice.qmd)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%"}
+[![](images/learning.png){width="230"}](learning.qmd)
+:::
+:::
