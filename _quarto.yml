@@ -18,6 +18,10 @@ website:
         file: Student.qmd
       - text: "Teacher"
         file: Teacher.qmd
+      - text: "Help/FAQ"
+        file: help.qmd
+      - text: Roadmap
+        file: roadmap.qmd
     right: 
       - icon: twitter 
         href: https://twitter.com/integral_maths

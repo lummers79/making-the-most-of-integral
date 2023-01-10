@@ -4,11 +4,7 @@ This website is for anybody who uses Integral - MEI's online learning platform f
 
 If you happen to have landed on this page and don't know what Integral is, go and have a [look at the Integral website](https://integralmaths.org){target="_blank"} for more details and to book a tour of the product if you're interested!
 
-To see our public roadmap of what we are working on now and in the future, please [visit that site here](https://app.loopedin.io/integral){target="_blank"}!
-
-Here is our dedicated help/FAQ site where you can find articles and videos to help with more general use of Integral e.g. setting up accounts, completing renewal etc.
-
-<iframe src="https://integralmaths.tawk.help/" style="border:2px #ffffff solid;" name="HelpFAQ" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen=></iframe>
+In the menu bar you can find links to our dedicated 'Help/FAQ' section as well as our 'Roadmap' highlighting upcoming changes and improvements. 
 
 The website is split into two user groups - Student and Teacher.
 
