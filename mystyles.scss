@@ -1,20 +1,25 @@
 /*-- scss:defaults --*/
 
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+
 // Colors
 $light-sage-green: #D1D9CE;
 $dark-sage-green: #98A08D;
 $cream: #FDFBF7;
 $gray: #64605f;
-$light-gray: #949799;
+$light-gray: #D3D3D3;
 $purple: #AE8BD1;
+$white: #FFFFFF;
+$black: #000000;
 
 // Base document colors
-$navbar-bg: $cream; // navbar
-$navbar-fg: $dark-sage-green; // navbar foreground elements
+$navbar-bg: $light-gray; // navbar
+$navbar-fg: $black; // navbar foreground elements
 $navbar-hl: $purple; // highlight color when hovering over navbar links
-$body-bg: $light-sage-green; // page background 
+$body-bg: $white; // page background 
 $body-color: $gray; // page text 
-$footer-bg: $cream; // footer 
+$footer-bg: $light-gray; // footer 
 $link-color: $purple; // hyperlinks 
 
 // Inline code

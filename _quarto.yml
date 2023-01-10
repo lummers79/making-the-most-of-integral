@@ -31,6 +31,7 @@ format:
   html:
     theme:
       - mystyles.scss
+    mainfont: Work Sans
     toc: false
 
 editor: visual
