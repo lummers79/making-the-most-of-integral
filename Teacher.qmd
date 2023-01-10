@@ -8,12 +8,36 @@ Choose a scenario below to see how to use Integral to help with your teaching.
 
 I want to:
 
--   Plan a lesson
+::: columns
+::: {.column width="18%"}
+Plan
+:::
 
--   Assess my students
+::: {.column width="2.5%"}
+:::
 
--   Set homework
+::: {.column width="18%"}
+Assess
+:::
 
--   Learn about topics/modules I have not taught yet
+::: {.column width="2.5%"}
+:::
 
--   Integrate Integral (ahem) into my scheme of work
+::: {.column width="18%"}
+Set homework
+:::
+
+::: {.column width="2.5%"}
+:::
+
+::: {.column width="18%"}
+Teach myself
+:::
+
+::: {.column width="2.5%"}
+:::
+
+::: {.column width="18%"}
+Add Integral to SOW
+:::
+:::
