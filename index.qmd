@@ -4,7 +4,7 @@ This website is for anybody who uses Integral - MEI's online learning platform f
 
 If you happen to have landed on this page and don't know what Integral is, go and have a [look at the Integral website](https://integralmaths.org){target="_blank"} for more details and to book a tour of the product if you're interested!
 
-In the menu bar you can find links to our dedicated 'Help/FAQ' section as well as our 'Roadmap' highlighting upcoming changes and improvements. 
+In the menu bar you can find links to our dedicated 'Help/FAQ' section as well as our 'Roadmap' highlighting upcoming changes and improvements.
 
 The website is split into two user groups - Student and Teacher.
 
@@ -16,7 +16,6 @@ Please choose which type of user you are to continue!
 :::
 
 ::: {.column width="10%"}
-
 :::
 
 ::: {.column width="45%"}

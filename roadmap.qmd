@@ -2,6 +2,4 @@
 
 Here you can see what we are working on now and in the future. You can also request new things and vote for current ideas that you would like to see implemented.
 
-<iframe src="https://app.loopedin.io/integral" style="border:2px #ffffff solid;" name="HelpFAQ" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen>
-
-</iframe>
+<iframe src="https://app.loopedin.io/integral" style="border:2px #ffffff solid;" name="HelpFAQ" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="100%" allowfullscreen></iframe>
