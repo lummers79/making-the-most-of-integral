@@ -28,7 +28,7 @@ website:
     logo: logonew.png
     logo-alt: "Integral logo"
   page-footer: 
-    left: "Copyright MEI, 2023" 
+    left: "&copy; MEI 2023" 
     
 
 format:
