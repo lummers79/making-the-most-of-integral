@@ -18,18 +18,19 @@ website:
         file: Student.qmd
       - text: "Teacher"
         file: Teacher.qmd
-    logo: logonew.png
-  page-footer: 
-    left: "Copyright MEI, 2023" 
     right: 
-      
       - icon: twitter 
         href: https://twitter.com/integral_maths
+    logo: logonew.png
+    logo-alt: "Integral logo"
+  page-footer: 
+    left: "Copyright MEI, 2023" 
+    
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - mystyles.scss
     toc: false
 
 editor: visual
