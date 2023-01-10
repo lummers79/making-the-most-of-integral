@@ -37,6 +37,7 @@ format:
       - mystyles.scss
     mainfont: Work Sans
     toc: false
+    page-layout: full
 
 editor: visual
 
