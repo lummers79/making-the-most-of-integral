@@ -22,10 +22,9 @@ Each topic in Integral is split into chapters. Each chapter is split up into dif
 :::
 :::
 
-Alternatively, choose an option below to see how to use Integral in different scenarios.
+*Alternatively*, choose an option below to see how to use Integral in different scenarios.
 
 **I want to use Integral to:**
-
 
 ::: columns
 ::: {.column width="30%"}
@@ -33,7 +32,6 @@ Alternatively, choose an option below to see how to use Integral in different sc
 :::
 
 ::: {.column width="5%"}
-
 :::
 
 ::: {.column width="30%"}
@@ -41,7 +39,6 @@ Alternatively, choose an option below to see how to use Integral in different sc
 :::
 
 ::: {.column width="5%"}
-
 :::
 
 ::: {.column width="30%"}
