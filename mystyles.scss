@@ -12,6 +12,7 @@ $light-gray: #D3D3D3;
 $purple: #AE8BD1;
 $white: #FFFFFF;
 $black: #000000;
+$blue: #0574B1;
 
 // Base document colors
 $navbar-bg: $light-gray; // navbar
@@ -34,5 +35,5 @@ $code-block-bg: $cream; // code block background color
 h1, h2, {
   letter-spacing: 3px;
   font-weight: 700;
-  color: $gray;
+  color: $blue;
 }
