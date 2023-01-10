@@ -5,6 +5,8 @@ Integral can be your one-stop shop for A level maths. As a student, you have acc
 Each topic in Integral is split into chapters. Each chapter is split up into different sections. Click on a section to see more details of what resources you can access.
 
 ::: columns
+
+
 ::: {.column width="25%"}
 [![](images/learn.png)](Learn.qmd)
 :::
