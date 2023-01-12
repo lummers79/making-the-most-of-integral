@@ -9,7 +9,7 @@ website:
     title: false
     background: light
     pinned: true
-    search: false
+    search: true
     collapse: true
     left:
       - text: "Home"
@@ -37,8 +37,7 @@ format:
       - mystyles.scss
     mainfont: Work Sans
     toc: false
-    page-layout: full
     
-
+    
 editor: visual
 
