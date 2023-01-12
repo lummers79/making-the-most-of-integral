@@ -9,7 +9,7 @@ website:
     title: false
     background: light
     pinned: true
-    search: false
+    search: true
     collapse: true
     left:
       - text: "Home"
@@ -39,6 +39,6 @@ format:
     toc: false
     page-layout: full
     
-
+    
 editor: visual
 
