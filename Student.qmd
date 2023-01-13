@@ -11,20 +11,29 @@ This guide has lots of tips to help that look like this :-)
 Each topic in Integral is split into chapters. Each chapter is split up into different sections. Click on a section to see more details of what resources you can access.
 
 ::: columns
-::: {.column width="25%"}
-[![](images/learn.png)](Learn.qmd)
+::: {.column width="22%"}
+[![](images/learn1.png)](Learn.qmd)
 :::
 
-::: {.column width="25%"}
-[![](images/develop.png)](Develop.qmd)
+::: {.column width="4%"}
 :::
 
-::: {.column width="25%"}
-[![](images/progres.png)](Progress.qmd)
+::: {.column width="22%"}
+[![](images/develop1.png)](Develop.qmd)
 :::
 
-::: {.column width="25%"}
-[![](images/extend.png)](Extend.qmd)
+::: {.column width="4%"}
+:::
+
+::: {.column width="22%"}
+[![](images/progress1.png)](Progress.qmd)
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="22%"}
+[![](images/extend1.png)](Extend.qmd)
 :::
 :::
 
@@ -34,20 +43,20 @@ Each topic in Integral is split into chapters. Each chapter is split up into dif
 
 ::: columns
 ::: {.column width="30%"}
-[![](images/image-965064493.png){width="230"}](catchup.qmd)
+[![](images/catchup.png)](catchup.qmd)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-[![](images/image-1348902770.png){width="230"}](practice.qmd)
+[![](images/practice.png)](practice.qmd)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-[![](images/learning.png){width="230"}](learning.qmd)
+[![](images/learn2.png)](learning.qmd)
 :::
 :::
