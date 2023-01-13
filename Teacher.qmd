@@ -14,39 +14,36 @@ Choose a scenario below to see how to use Integral to help with your teaching.
 
 I want to:
 
-
 ::: columns
 ::: {.column width="18%"}
-![](images/image-819218743.png){width="150" height="70"}
+![](images/plan.png)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/image-1764515570.png){width="150" height="70"}
+![](images/assess.png)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/image-1427320440.png){width="150" height="85"}
+![](images/set%20work.png)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/image-1385875161.png){width="150" height="70"}
+![](images/learn%20new.png)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/image-764068673.png){width="170" height="85"}
+![](images/sow.png)
 :::
-
-
 :::

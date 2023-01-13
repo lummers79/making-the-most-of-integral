@@ -43,20 +43,20 @@ Each topic in Integral is split into chapters. Each chapter is split up into dif
 
 ::: columns
 ::: {.column width="30%"}
-[![](images/catchup.png){width="300"}](catchup.qmd)
+[![](images/catchup-01.png)](catchup.qmd)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-[![](images/practice.png){width="300"}](practice.qmd)
+[![](images/practice-01.png)](practice.qmd)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="30%"}
-[![](images/learn2.png){width="300"}](learning.qmd)
+[![](images/learn%20new-01.png)](learning.qmd)
 :::
 :::
