@@ -16,34 +16,34 @@ I want to:
 
 ::: columns
 ::: {.column width="18%"}
-![](images/plan.png)
+[![](images/plan.png)](plan.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/assess.png)
+[![](images/assess.png)](assess.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/set%20work.png)
+[![](images/set%20work.png)](set-work.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/learn%20new.png)
+[![](images/learn%20new.png)](learn-teacher.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-![](images/sow.png)
+[![](images/sow.png)](sow.qmd)
 :::
 :::
