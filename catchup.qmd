@@ -1,10 +1,22 @@
 # Using Integral to catch up
 
-Students miss lessons for a whole number of reasons. Maybe a music lesson, illness, a sports game, etc etc.
+Students miss lessons for a whole number of reasons. Maybe a music lesson, illness, a sports game, etc.
 
-Integral has you covered.
+**Integral has you covered.**
 
-Every topic of A level maths and further maths is covered in a teaching video - this is the first thing to do. Find out from your teacher or classmates what the topic was and find that section of Integral. Then in the learn section of the chapter of the topic, find and watch the relevant video.
+### How to catch up
+
+1.  Find our from a classmate or your teacher what you missed in the lesson
+
+2.  Find the relevant section of Integral
+
+::: callout-tip
+## Tip!
+
+When in the correct course, use the 'Topics' menu button to see the whole course broken into topics and chapters
+:::
+
+3.  Go to the learn section and find the video covering the topic you missed. **Every** topic of A level maths and further maths is covered in a teaching video.
 
 Watch this video to see this in action:
 
