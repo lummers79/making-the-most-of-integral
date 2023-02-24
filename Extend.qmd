@@ -2,4 +2,8 @@
 
 In this section, you will find questions to push you beyond the level expected. You will need to think and reason at a high level but these questions will leave you at a higher level of understanding.
 
--   Exercise - Level 3 (and full worked solutions)
+### Exercises
+
+Here you will find the Level 3 exercise. **These do not exist in every topic.** These questions are designed to make you think beyond the expectations of the topic whilst relying on understanding from the topic.
+
+Whilst they are wonderful questions for everyone doing A Level Maths, If you plan to study maths at university or you need to sit the STEP exams, then these are the questions for you.
