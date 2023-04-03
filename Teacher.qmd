@@ -15,35 +15,40 @@ Choose a scenario below to see how to use Integral to help with your teaching.
 I want to:
 
 ::: columns
+
 ::: {.column width="18%"}
-[![](images/plan.png)](plan.qmd)
+[![](images/sow-02.png){fig-alt="Use Integral to add to my SOW"}](sow.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-[![](images/assess.png)](assess.qmd)
+[![](images/plan-03.png){fig-alt="Use integral to plan"}](plan.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-[![](images/set%20work.png)](set-work.qmd)
+[![](images/assess-02.png){fig-alt="Use integral to assess"}](assess.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-[![](images/learn%20new.png)](learn-teacher.qmd)
+[![](images/set%20work-02.png){fig-alt="Use integral to set work"}](set-work.qmd)
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="18%"}
-[![](images/sow.png)](sow.qmd)
+[![](images/learn%20new-05.png){fig-alt="Use integral to learn something new"}](learn-teacher.qmd)
 :::
+
+
+
+
 :::

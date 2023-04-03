@@ -1,7 +1,8 @@
 /*-- scss:defaults --*/
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Work+Sans:wght@300&display=swap');
+
 
 // Colors
 $light-sage-green: #D1D9CE;
@@ -13,14 +14,26 @@ $purple: #36013F;
 $white: #FFFFFF;
 $black: #000000;
 $blue: #0574B1;
+$pink-white: #FDF5F6;
+$green-blue: #C6D7E0;
+$light-red: #D7BDBD;
+$red: #A21E23;
+$redder: #770C10;
+$pink: #ECD2D3;
+$light-green-blue: #E3EDF2;
+$darker-blue: #1C3557;
+$dark-green-blue: #678191;
+$brown-red: #6D3E3D;
+$white: #FFFFFF;
+$purple-blue: #314376;
 
 // Base document colors
-$navbar-bg: $light-gray; // navbar
+$navbar-bg: $light-green-blue; // navbar
 $navbar-fg: $black; // navbar foreground elements
-$navbar-hl: $purple; // highlight color when hovering over navbar links
-$body-bg: $cream; // page background 
-$body-color: $gray; // page text 
-$footer-bg: $light-gray; // footer 
+$navbar-hl: $redder; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $gray; // page text
+$footer-bg: $light-gray; // footer
 $link-color: $purple; // hyperlinks 
 
 // Inline code
@@ -36,7 +49,7 @@ h1, h2, h3 {
 
   letter-spacing: 3px;
   font-weight: 700;
-  color: $blue;
+  color: $redder;
 }
 
 
