@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  favicon: favicon.png
+  favicon: faviconnew.png
   title: Making the most of Integral
   navbar:
     title: false
@@ -25,7 +25,7 @@ website:
     right: 
       - icon: twitter 
         href: https://twitter.com/integral_maths
-    logo: logonew.png
+    logo: newlogo.png
     logo-alt: "Integral logo"
   page-footer: 
     left: "&copy; MEI 2023" 
