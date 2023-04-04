@@ -1,1 +1,15 @@
 # Adding Integral to your scheme of work
+
+We currently have Integral mapping for **A Level Maths only** for AQA, OCR (A and B) and Edexcel. We plan to map WJEC and Further Maths in the future.
+
+To find the downloadable spreadsheet, head to the AS Pure section of your course.
+
+Choose 'Introduction, overview and papers'.
+
+Click 'Integral links for \_\_\_\_\_\_\_\_\_\_' as shown in this picture:
+
+![](images/integral%20links.png)
+
+When you open the spreadsheet, you will see a tab for Pure and one for Applied. Each tab has the specification reference and then links to the relevant section of Integral.
+
+You can then copy the links into your schemes of work so that teachers (and students) can quickly find the right place on Integral.
