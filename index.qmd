@@ -16,13 +16,13 @@ Please choose which type of user you are to continue!
 
 ::: columns
 ::: {.column width="45%"}
-[![](images/Teacher%20(2).png){fig-alt="Student"}](Student.qmd)
+[![](images/Teacher%20(2).png){fig-alt="Student" width="250"}](Student.qmd)
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="45%"}
-[![](images/Teacher%20(1).png){fig-alt="Teacher"}](Teacher.qmd)
+[![](images/Teacher%20(1).png){fig-alt="Teacher" width="250"}](Teacher.qmd)
 :::
 :::
