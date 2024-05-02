@@ -35,7 +35,7 @@ format:
   html:
     theme:
       - mystyles.scss
-    mainfont: Work Sans
+    mainfont: Poppins
     toc: false
     page-layout: full
     
